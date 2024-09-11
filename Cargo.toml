@@ -1,0 +1,9 @@
+[package]
+name = "labels"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ashish Khare <flangdev3000@gmail.com>"]
+
+[dependencies]
+rocket = "0.5.1"
+svg = "0.10"
